@@ -1,7 +1,7 @@
 # Next.js Dashboard Website
 
 ## Live Link
-
+https://leads-dashboard-web.vercel.app/
 
 ## Overview
 This is a dashboard website built using **Next.js** that displays posts from the **JSONPlaceholder API** in a tabular format. The project demonstrates server-side rendering (SSR), filtering functionality, authentication with a dummy sign-in method, UI implementation with **ShadCN**, dark mode support, and full mobile responsiveness.
